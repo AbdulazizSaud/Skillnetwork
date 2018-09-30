@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "482864345356",
+    "firebase_url": "https://skillnetwork-cbdf0.firebaseio.com",
+    "project_id": "skillnetwork-cbdf0",
+    "storage_bucket": "skillnetwork-cbdf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482864345356:android:e51b3af46c52df2d",
+        "android_client_info": {
+          "package_name": "com.example.boxtech.skillnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482864345356-0pnmqep1s93rv6t2161se3j4b2bck50v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcv2kbqgfgG3IVMcCJ9jBJVoJYxzxZtng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
